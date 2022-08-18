@@ -8,7 +8,7 @@ const pass_data=pass_obj.value
 console.log(email_data,pass_data)
 
 if(email_data==='hasan@gmail.com' && pass_data==='secret'){
-    window.location.href='Bank_page.html'
+    window.location.href="Html/Bank_page.html"
 }
 
 
